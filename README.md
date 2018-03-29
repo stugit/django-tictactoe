@@ -1,0 +1,3 @@
+# django-tictactoe
+
+Learning Django.
